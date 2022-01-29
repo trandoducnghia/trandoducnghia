@@ -10,8 +10,6 @@ Contact me:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=trandoducnghia&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=trandoducnghia)  
-
 ![GitHub metrics](https://metrics.lecoq.io/trandoducnghia)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=trandoducnghia)  
